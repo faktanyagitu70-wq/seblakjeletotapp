@@ -1,0 +1,4 @@
+com.seblakjeletot.app.test.app-androidTest-0 C:\AndroidProject\SeblakJeletotApp\app\build\generated\res\resValues\androidTest\debug
+com.seblakjeletot.app.test.app-mergeDebugAndroidTestResources-1 C:\AndroidProject\SeblakJeletotApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.seblakjeletot.app.test.app-mergeDebugAndroidTestResources-2 C:\AndroidProject\SeblakJeletotApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.seblakjeletot.app.test.app-debugAndroidTest-3 C:\AndroidProject\SeblakJeletotApp\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

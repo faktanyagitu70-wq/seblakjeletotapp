@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cream_bg">#FFF8F0</color>
+    <color name="dark_red">#8E0000</color>
+    <color name="gray_light">#F5F5F5</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="orange_spicy">#FF7043</color>
+    <color name="primary_red">#C62828</color>
+    <color name="text_dark">#2D1B14</color>
+    <color name="text_soft">#6D4C41</color>
+    <color name="white">#FFFFFF</color>
+    <color name="yellow_warm">#FFD54F</color>
+    <string name="app_name">Seblak Jeletot</string>
+    <style name="Theme.SeblakJeletotApp" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">#B71C1C</item>
+        <item name="android:navigationBarColor">#B71C1C</item>
+    </style>
+</resources>
